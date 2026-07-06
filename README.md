@@ -16,8 +16,8 @@ Actuellement **AI Software Engineer & Référent interne IA/MCP chez Amiltone**.
 
 | Projet | Description & Architecture | Stack Technique |
 | :--- | :--- | :--- |
-| **🤖 Agentic OS** <br>*(Tessera & Cortex)* | Écosystème R&D d'agents IA autonomes. **Tessera** orchestre la collaboration multi-LLM locale/cloud. **Cortex** gère la mémoire à long terme via un système de RAG s'appuyant sur un graphe de connaissances temporel. | TypeScript, Bun, Tauri, MCP SDK, PostgreSQL (`pgvector`), OpenAI/Anthropic APIs |
-| **🍹 Cocktails Di Jo** <br>*Projet de titre CDA* | Plateforme e-commerce full-stack intégrant un **agent IA conversationnel doté d'une Generative UI** (via Amazon Bedrock) pour la prise de commande dynamique et la recommandation contextuelle sécurisée. | NestJS, React, Vite, AWS Bedrock, Lambda, GitHub Actions, Stripe |
+| **Agentic OS** <br>*(Tessera & Cortex)* | Écosystème R&D d'agents IA autonomes. **Tessera** orchestre la collaboration multi-LLM locale/cloud. **Cortex** gère la mémoire à long terme via un système de RAG s'appuyant sur un graphe de connaissances temporel. | TypeScript, Bun, Tauri, MCP SDK, PostgreSQL (`pgvector`), OpenAI/Anthropic APIs |
+| **Cocktails Di Jo** <br>*Projet de titre CDA* | Plateforme e-commerce full-stack intégrant un **agent IA conversationnel doté d'une Generative UI** (via Amazon Bedrock) pour la prise de commande dynamique et la recommandation contextuelle sécurisée. | NestJS, React, Vite, AWS Bedrock, Lambda, GitHub Actions, Stripe |
 
 ---
 
@@ -32,12 +32,7 @@ Actuellement **AI Software Engineer & Référent interne IA/MCP chez Amiltone**.
 
 ---
 
-## 04 . Activité & Statistiques
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BlueeShark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0E14&title_color=2DD4BF&text_color=C9D1D9&icon_color=2DD4BF" alt="statistiques GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueeShark&layout=compact&hide_border=true&bg_color=0B0E14&title_color=2DD4BF&text_color=C9D1D9" alt="langages">
-</p>
+## 04 . Activité
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueeShark&hide_border=true&bg_color=0B0E14&color=C9D1D9&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&custom_title=Activité" alt="graphe d'activité" width="850">
@@ -47,5 +42,5 @@ Actuellement **AI Software Engineer & Référent interne IA/MCP chez Amiltone**.
 
 ## 05 . Me joindre
 
-* 💼 **LinkedIn** : [/emilien-benard](https://www.linkedin.com/in/emilien-benard)
-* ✉️ **Email** : [emilien.benard2@gmail.com](mailto:emilien.benard2@gmail.com)
+* **LinkedIn** : [/emilien-benard](https://www.linkedin.com/in/emilien-benard)
+* **Email** : [emilien.benard2@gmail.com](mailto:emilien.benard2@gmail.com)
