@@ -1,23 +1,33 @@
-<!-- Bannière / titre animé -->
+<!-- Titre animé -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=3A8FFF&center=true&vCenter=true&width=600&lines=Salut+!+Je+suis+BlueeShark+%F0%9F%A6%88;D%C3%A9veloppeur+Full-Stack;Toujours+en+train+d'apprendre" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=3A8FFF&center=true&vCenter=true&width=650&lines=Salut+!+Je+suis+Emilien+Benard+%F0%9F%A6%88;AI+Software+Engineer+%2F+Architecte;Full-Stack+JavaScript+%26+Cloud+AWS" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 À propos de moi
 
-- 🦈 Développeur passionné, je code sous le pseudo **BlueeShark**
-- 🌱 J'apprends en ce moment : _(à compléter — ex : Next.js, Docker...)_
-- 🎯 Mon objectif : _(à compléter — ex : devenir dev full-stack senior)_
-- 📫 Me contacter : _(à compléter — email / LinkedIn)_
+- 🦈 Développeur full-stack, je code sous le pseudo **BlueeShark**
+- 🎓 Titre **CDA** validé — actuellement en formation à **MyDigitalSchool**, en alternance chez **Amiltone**
+- 🧠 Je travaille sur l'**IA appliquée** : LLM (OpenAI), modèles locaux (LM Studio), automatisations (n8n)
+- ☁️ À l'aise sur le **Cloud AWS** (Lambda, déploiement d'applications complètes)
+- 🎯 Objectif : **AI Systems Architect** — concevoir des systèmes qui allient IA et architecture solide
+- 📫 Me contacter : mimibenard25@gmail.com
 
 ---
 
 ## 🛠️ Technologies & Outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,prisma,postgres,git,github,vscode" alt="Mes technos" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,prisma,postgres,tailwind,aws,docker,git,github" alt="Mes technos" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LM_Studio-000000?logo=probot&logoColor=white" alt="LM Studio" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Better_Auth-000000?logo=auth0&logoColor=white" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
@@ -26,8 +36,7 @@
 
 | Projet | Description |
 |--------|-------------|
-| **_(Projet 1)_** | _(courte description)_ |
-| **_(Projet 2)_** | _(courte description)_ |
+| **Cocktails Di Jo** | Application complète du titre CDA — architecture cloud AWS, authentification Better Auth, déploiement via GitHub Actions. Présentée et validée devant le jury. |
 
 ---
 
