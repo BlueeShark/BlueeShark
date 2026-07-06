@@ -1,66 +1,42 @@
-<!-- Titre animé -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=3A8FFF&center=true&vCenter=true&width=650&lines=Salut+!+Je+suis+Emilien+Benard+%F0%9F%A6%88;AI+Software+Engineer+%2F+Architecte;Full-Stack+JavaScript+%26+Cloud+AWS" alt="Typing SVG" />
+  <img src="./banner.svg" alt="Emilien Benard — AI Software Engineer" width="850">
 </p>
 
----
+## Qui je suis
 
-## 👋 À propos de moi
+Ingénieur logiciel orienté IA. Je conçois des systèmes qui mettent des LLM en production sans sacrifier l'architecture : de la donnée jusqu'au déploiement cloud. Titre CDA validé, formé à MyDigitalSchool et en alternance chez Amiltone.
 
-- 🦈 Développeur full-stack, je code sous le pseudo **BlueeShark**
-- 🎓 Titre **CDA** validé — actuellement en formation à **MyDigitalSchool**, en alternance chez **Amiltone**
-- 🧠 Je travaille sur l'**IA appliquée** : LLM (OpenAI), modèles locaux (LM Studio), automatisations (n8n)
-- ☁️ À l'aise sur le **Cloud AWS** (Lambda, déploiement d'applications complètes)
-- 🎯 Objectif : **AI Systems Architect** — concevoir des systèmes qui allient IA et architecture solide
-- 📫 Me contacter : mimibenard25@gmail.com
+Ce qui m'intéresse, c'est le point de rencontre entre le modèle et l'ingénierie qui l'entoure : orchestration, mémoire, automatisation, et le socle full-stack qui rend tout ça utilisable.
 
----
+## Ce que je construis
 
-## 🛠️ Technologies & Outils
+Des applications full-stack en JavaScript, adossées à AWS (Lambda, déploiement continu), avec une couche IA maison : intégration de LLM cloud comme locaux, pipelines d'automatisation, et systèmes de mémoire pour agents.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,prisma,postgres,tailwind,aws,docker,git,github" alt="Mes technos" />
+| Projet | En quelques mots |
+|--------|------------------|
+| **Cocktails Di Jo** | Application complète du titre CDA. Architecture cloud AWS, authentification Better Auth, déploiement via GitHub Actions. Présentée et validée devant le jury. |
+
+## Ma stack
+
+**Langages** &nbsp; JavaScript · TypeScript
+
+**Front** &nbsp; React · Next.js · Tailwind CSS
+
+**Back & data** &nbsp; Node.js · Prisma · PostgreSQL · Better Auth
+
+**IA** &nbsp; OpenAI · LM Studio (modèles locaux) · n8n
+
+**Cloud & outils** &nbsp; AWS Lambda · GitHub Actions · Docker · Git
+
+## En ce moment
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BlueeShark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0E14&title_color=2DD4BF&text_color=C9D1D9&icon_color=2DD4BF" alt="statistiques GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueeShark&layout=compact&hide_border=true&bg_color=0B0E14&title_color=2DD4BF&text_color=C9D1D9" alt="langages">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LM_Studio-000000?logo=probot&logoColor=white" alt="LM Studio" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Better_Auth-000000?logo=auth0&logoColor=white" alt="Better Auth" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueeShark&hide_border=true&bg_color=0B0E14&color=C9D1D9&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&custom_title=Activité" alt="graphe d'activité" width="850">
 
----
+## Me joindre
 
-## 🚀 Projets phares
-
-| Projet | Description |
-|--------|-------------|
-| **Cocktails Di Jo** | Application complète du titre CDA — architecture cloud AWS, authentification Better Auth, déploiement via GitHub Actions. Présentée et validée devant le jury. |
-
----
-
-## 📊 Mes statistiques GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlueeShark&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueeShark&layout=compact&theme=tokyonight" alt="top langages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BlueeShark&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BlueeShark&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophées" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueeShark&theme=tokyo-night&hide_border=true" alt="graphe d'activité" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlueeShark&label=Vues+du+profil&color=3A8FFF&style=flat" alt="compteur de vues" />
-</p>
+Écris-moi à mimibenard25@gmail.com.
