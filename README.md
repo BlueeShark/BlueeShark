@@ -2,41 +2,50 @@
   <img src="./banner.svg" alt="Emilien Benard — AI Software Engineer" width="850">
 </p>
 
-## Qui je suis
+## 01 . Qui je suis
 
-Ingénieur logiciel orienté IA. Je conçois des systèmes qui mettent des LLM en production sans sacrifier l'architecture : de la donnée jusqu'au déploiement cloud. Titre CDA validé, formé à MyDigitalSchool et en alternance chez Amiltone.
+Ingénieur logiciel spécialisé en **Agentic AI** et **architectures cloud AWS**. Issu d'un parcours initial en 3D/VFX, j'allie une forte sensibilité produit et UX à l'ingénierie logicielle pour concevoir et industrialiser des systèmes autonomes résilients en production.
 
-Ce qui m'intéresse, c'est le point de rencontre entre le modèle et l'ingénierie qui l'entoure : orchestration, mémoire, automatisation, et le socle full-stack qui rend tout ça utilisable.
+Ce qui me passionne, c'est le point de rencontre entre les modèles de pointe et l'ingénierie logicielle qui les entoure : orchestration avancée, serveurs MCP (Model Context Protocol) sur mesure, mémoire vectorielle et infrastructures cloud hautement disponibles. 
 
-## Ce que je construis
+Actuellement **AI Software Engineer & Référent interne IA/MCP chez Amiltone**.
 
-Des applications full-stack en JavaScript, adossées à AWS (Lambda, déploiement continu), avec une couche IA maison : intégration de LLM cloud comme locaux, pipelines d'automatisation, et systèmes de mémoire pour agents.
+---
 
-| Projet | En quelques mots |
-|--------|------------------|
-| **Cocktails Di Jo** | Application complète du titre CDA. Architecture cloud AWS, authentification Better Auth, déploiement via GitHub Actions. Présentée et validée devant le jury. |
+## 02 . Ce que je construis (Featured Projects)
 
-## Ma stack
+| Projet | Description & Architecture | Stack Technique |
+| :--- | :--- | :--- |
+| **🤖 Agentic OS** <br>*(Tessera & Cortex)* | Écosystème R&D d'agents IA autonomes. **Tessera** orchestre la collaboration multi-LLM locale/cloud. **Cortex** gère la mémoire à long terme via un système de RAG s'appuyant sur un graphe de connaissances temporel. | TypeScript, Bun, Tauri, MCP SDK, PostgreSQL (`pgvector`), OpenAI/Anthropic APIs |
+| **🍹 Cocktails Di Jo** <br>*Projet de titre CDA* | Plateforme e-commerce full-stack intégrant un **agent IA conversationnel doté d'une Generative UI** (via Amazon Bedrock) pour la prise de commande dynamique et la recommandation contextuelle sécurisée. | NestJS, React, Vite, AWS Bedrock, Lambda, GitHub Actions, Stripe |
 
-**Langages** &nbsp; JavaScript · TypeScript
+---
 
-**Front** &nbsp; React · Next.js · Tailwind CSS
+## 03 . Expertise Technique
 
-**Back & data** &nbsp; Node.js · Prisma · PostgreSQL · Better Auth
+* **AI & Orchestration :** MCP SDK ∙ CrewAI ∙ Orca (ADE) ∙ FastMCP
+* **AI Integrations :** Anthropic API ∙ OpenAI API ∙ Function Calling ∙ Prompt Engineering
+* **Cloud AWS :** Amazon Bedrock ∙ Lambda ∙ ECS / ECR ∙ API Gateway ∙ SSM
+* **Languages :** Python ∙ TypeScript / JavaScript (Bun ∙ Node.js ∙ NestJS)
+* **Data & Vector :** PostgreSQL (pgvector) ∙ Knowledge Graphs ∙ Graphes Temporels
+* **DevOps :** CI/CD (GitHub Actions) ∙ Docker ∙ Git ∙ GitLab CI
 
-**IA** &nbsp; OpenAI · LM Studio (modèles locaux) · n8n
+---
 
-**Cloud & outils** &nbsp; AWS Lambda · GitHub Actions · Docker · Git
+## 04 . Activité & Statistiques
 
-## En ce moment
-
-<p>
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=BlueeShark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0E14&title_color=2DD4BF&text_color=C9D1D9&icon_color=2DD4BF" alt="statistiques GitHub">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueeShark&layout=compact&hide_border=true&bg_color=0B0E14&title_color=2DD4BF&text_color=C9D1D9" alt="langages">
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueeShark&hide_border=true&bg_color=0B0E14&color=C9D1D9&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&custom_title=Activité" alt="graphe d'activité" width="850">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueeShark&hide_border=true&bg_color=0B0E14&color=C9D1D9&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&custom_title=Activité" alt="graphe d'activité" width="850">
+</p>
 
-## Me joindre
+---
 
-Écris-moi à mimibenard25@gmail.com.
+## 05 . Me joindre
+
+* 💼 **LinkedIn** : [/emilien-benard](https://www.linkedin.com/in/emilien-benard)
+* ✉️ **Email** : [emilien.benard2@gmail.com](mailto:emilien.benard2@gmail.com)
