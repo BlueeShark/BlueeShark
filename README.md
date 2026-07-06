@@ -25,7 +25,7 @@ Actuellement **AI Software Engineer & Référent interne IA/MCP chez Amiltone**.
 
 * **AI & Orchestration :** MCP SDK ∙ CrewAI ∙ Orca (ADE) ∙ FastMCP
 * **AI Integrations :** Anthropic API ∙ OpenAI API ∙ Function Calling ∙ Prompt Engineering
-* **Cloud AWS :** Amazon Bedrock ∙ Lambda ∙ ECS / ECR ∙ API Gateway ∙ SSM
+* **Cloud AWS :** Amazon Bedrock ∙ Lambda ∙ EC2 ∙ API Gateway ∙ SSM
 * **Languages :** Python ∙ TypeScript / JavaScript (Bun ∙ Node.js ∙ NestJS)
 * **Data & Vector :** PostgreSQL (pgvector) ∙ Knowledge Graphs ∙ Graphes Temporels
 * **DevOps :** CI/CD (GitHub Actions) ∙ Docker ∙ Git ∙ GitLab CI
