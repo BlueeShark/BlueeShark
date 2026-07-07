@@ -32,15 +32,7 @@ Actuellement **AI Software Engineer & Référent interne IA/MCP chez Amiltone**.
 
 ---
 
-## 04 . Activité
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueeShark&hide_border=true&bg_color=0B0E14&color=C9D1D9&line=2DD4BF&point=2DD4BF&area=true&area_color=2DD4BF&custom_title=Activité" alt="graphe d'activité" width="850">
-</p>
-
----
-
-## 05 . Me joindre
+## 04 . Me joindre
 
 * **LinkedIn** : [/emilien-benard](https://www.linkedin.com/in/emilien-benard)
 * **Email** : [emilien.benard2@gmail.com](mailto:emilien.benard2@gmail.com)
