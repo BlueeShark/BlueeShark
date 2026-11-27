@@ -1,34 +1,36 @@
 <p align="center">
-  <img src="./banner.svg" alt="Emilien Benard — AI Software Engineer" width="850">
+  <img src="./banner.svg" alt="Emilien Benard, AI Software Engineer" width="850">
 </p>
 
 ## 01 . Qui je suis
 
-Ingénieur logiciel spécialisé en **Agentic AI** et **architectures cloud AWS**. Issu d'un parcours initial en 3D/VFX, j'allie une forte sensibilité produit et UX à l'ingénierie logicielle pour concevoir et industrialiser des systèmes autonomes résilients en production.
+Ingénieur logiciel, je construis des systèmes d'agents qui livrent du code en production : orchestration de sessions Claude Code, serveurs MCP, mémoire partagée entre agents, CI qui fusionne seule ce qui est vert. Venu de la 3D et du VFX, j'ai gardé le goût du produit et de l'interface.
 
-Ce qui me passionne, c'est le point de rencontre entre les modèles de pointe et l'ingénierie logicielle qui les entoure : orchestration avancée, serveurs MCP (Model Context Protocol) sur mesure, mémoire vectorielle et infrastructures cloud hautement disponibles. 
+AI Software Engineer et référent interne IA et MCP chez **Amiltone**.
 
-Actuellement **AI Software Engineer & Référent interne IA/MCP chez Amiltone**.
+Mon travail personnel est dans des dépôts privés ; les projets ci-dessous sont décrits ici, avec une vitrine quand c'est possible.
 
 ---
 
-## 02 . Ce que je construis (Featured Projects)
+## 02 . Ce que je construis
 
-| Projet | Description & Architecture | Stack Technique |
+| Projet | Ce que c'est | Stack |
 | :--- | :--- | :--- |
-| **Agentic OS** <br>*(Tessera & Cortex)* | Écosystème R&D d'agents IA autonomes. **Tessera** orchestre la collaboration multi-LLM locale/cloud. **Cortex** gère la mémoire à long terme via un système de RAG s'appuyant sur un graphe de connaissances temporel. | TypeScript, Bun, Tauri, MCP SDK, PostgreSQL (`pgvector`), OpenAI/Anthropic APIs |
-| **Cocktails Di Jo** <br>*Projet de titre CDA* | Plateforme e-commerce full-stack intégrant un **agent IA conversationnel doté d'une Generative UI** (via Amazon Bedrock) pour la prise de commande dynamique et la recommandation contextuelle sécurisée. | NestJS, React, Vite, AWS Bedrock, Lambda, GitHub Actions, Stripe |
+| **Klipia** <br>[Vitrine](https://github.com/BlueeShark/klipia-showcase) | SaaS de publication multi-comptes : une vidéo devient des variantes différentes (accroche, montage, horaire) publiées sur sept réseaux par leurs API officielles, avec validation humaine. Serveur MCP pour piloter son espace depuis Claude ou ChatGPT. Développé par des agents Claude Code orchestrés par ticket, avec revue, audit de sécurité et critiques visuelles automatiques, puis une file de push qui fusionne les PR vertes. | Next.js 16, React 19, TypeScript, PostgreSQL, Drizzle, Vercel, Cloudflare R2, Claude API, MCP SDK |
+| **Atlas** | Mémoire persistante partagée par mes agents : un vault Markdown, un fichier par sujet, des entrées datées qui se remplacent sans s'effacer. Les agents l'éditent directement, une curation de nuit relit et range les nouvelles entrées, un index plein texte sert la recherche et la lecture « vrai à telle date ». Chaque agent reçoit en début de session un noyau de ce qu'il doit savoir. | Python, SQLite FTS5, Markdown, Claude Code hooks |
+| **Agentic OS** | Bientôt. | |
 
 ---
 
-## 03 . Expertise Technique
+## 03 . Outils et expertise
 
-* **AI & Orchestration :** MCP SDK ∙ CrewAI ∙ Orca (ADE) ∙ FastMCP
-* **AI Integrations :** Anthropic API ∙ OpenAI API ∙ Function Calling ∙ Prompt Engineering
-* **Cloud AWS :** Amazon Bedrock ∙ Lambda ∙ EC2 ∙ API Gateway ∙ SSM
-* **Languages :** Python ∙ TypeScript / JavaScript (Bun ∙ Node.js ∙ NestJS)
-* **Data & Vector :** PostgreSQL (pgvector) ∙ Knowledge Graphs ∙ Graphes Temporels
-* **DevOps :** CI/CD (GitHub Actions) ∙ Docker ∙ Git ∙ GitLab CI
+* **Agents :** Claude Code ∙ Orca (ADE : bots, workers, automations) ∙ OpenClaw ∙ sous-agents et skills
+* **Protocoles et API :** MCP (serveurs Streamable HTTP, OAuth) ∙ Claude API ∙ OpenAI API
+* **Organisation :** Linear ∙ GitHub (PR, rulesets, Actions self-hosted) ∙ ADR et journal de décisions
+* **Langages :** TypeScript ∙ Python ∙ JavaScript ∙ Java
+* **Web et données :** Next.js ∙ React ∙ Node.js ∙ PostgreSQL ∙ Drizzle ∙ SQLite
+* **Cloud :** Vercel ∙ Cloudflare R2 ∙ AWS (ECS, API Gateway, Lambda, Bedrock)
+* **Tests :** Vitest ∙ Testing Library ∙ Playwright ∙ TDD
 
 ---
 
