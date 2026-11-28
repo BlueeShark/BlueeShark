@@ -16,7 +16,7 @@ Mon travail personnel est dans des dépôts privés ; les projets ci-dessous son
 
 | Projet | Ce que c'est | Stack |
 | :--- | :--- | :--- |
-| **Klipia** <br>[Vitrine](https://github.com/BlueeShark/klipia-showcase) | SaaS de publication multi-comptes : une vidéo devient des variantes différentes (accroche, montage, horaire) publiées sur sept réseaux par leurs API officielles, avec validation humaine. Serveur MCP pour piloter son espace depuis Claude ou ChatGPT. Développé par des agents Claude Code orchestrés par ticket, avec revue, audit de sécurité et critiques visuelles automatiques, puis une file de push qui fusionne les PR vertes. | Next.js 16, React 19, TypeScript, PostgreSQL, Drizzle, Vercel, Cloudflare R2, Claude API, MCP SDK |
+| **Klipia** <br>[Vitrine](https://github.com/BlueeShark/klipia-showcase) | SaaS de publication multi-comptes : une vidéo devient des variantes différentes (accroche, montage, horaire) publiées sur sept réseaux, avec validation avant chaque envoi. Entièrement orchestré par des agents IA. | |
 | **Atlas** | Mémoire persistante partagée par mes agents : un vault Markdown, un fichier par sujet, des entrées datées qui se remplacent sans s'effacer. Les agents l'éditent directement, une curation de nuit relit et range les nouvelles entrées, un index plein texte sert la recherche et la lecture « vrai à telle date ». Chaque agent reçoit en début de session un noyau de ce qu'il doit savoir. | Python, SQLite FTS5, Markdown, Claude Code hooks |
 | **Agentic OS** | Bientôt. | |
 
